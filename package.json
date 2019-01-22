@@ -32,6 +32,6 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "dependencies": {
-    "chart.js": "^2.4.0"
+    "chart.js": "https://github.com/codefresh-io/Chart.js.git#a21da66d295547778ad046aef5899389a4e0f3e2"
   }
 }
